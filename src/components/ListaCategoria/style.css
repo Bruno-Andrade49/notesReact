@@ -1,0 +1,29 @@
+.lista-cat {
+  display: flex;
+}
+
+.lista-cat > ul {
+  display: flex;
+}
+
+.lista-cat > ul > li {
+  font-size: 14px;
+  margin-left: 50px;
+  color: white;
+  padding: 15px;
+  font-family: helvetica, sans-serif;
+}
+
+.lista-cat > ul > li > div {
+  background-color: rgb(11, 17, 105);
+  border-radius: 18%;
+}
+
+.lista-cat > input {
+    margin-top: 10px;
+  margin-left: 50px;
+  font-size: 18pt;
+  height: 25px;
+  width: 150px;
+  font-size: 14px;
+}

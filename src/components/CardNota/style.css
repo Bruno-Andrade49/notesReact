@@ -1,0 +1,31 @@
+.card-nota {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--fundo-detalhes); ;
+  flex-wrap: wrap;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.titulo-header {
+  font-size: 1.1em;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.titulo-texto {
+  font-size: 20px;
+  margin-right: 12px;
+  font-family: 'Hind', sans-serif;
+
+}
+
+.texto-texto {
+    margin-top: 8px;
+    font-size: 12px;
+    font-family: 'Hind', sans-serif;
+}
