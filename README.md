@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+<h1 align="center">Notes_React</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Descrição do Projeto
+<p align="center">O projeto teve como objetivo praticar o uso do framework React, buscando melhorar meu entendimento com relação ao estilo de uso class components, presente na 
+biblioteca, além disso o pequeno sistema web tem como objetivo a criação de notas do dia a dia, baseando-se em categorias, títulos e seus respectivos textos. 
+</p>
 
-## Available Scripts
+<p align="center">
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#projeto">Link do Projeto</a> • 
+ <a href="#notas"> Notas da Aplicação</a> • 
+ <a href="#autor">Autor</a>
+</p>
 
-In the project directory, you can run:
 
-### `npm start`
+## Tecnologias: 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<div align="center">
 
-### `npm test`
+<a href="https://www.w3schools.com /css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt= "css3" height="40" width="40"/> 
+</a> 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
+</a> 
 
-### `npm run build`
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40"/> 
+</a> 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+</div>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Projeto:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<a href="notes-react-lac.vercel.app">
+Para acessar o projeto, clique aqui</a>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![Screenshot_9](https://user-images.githubusercontent.com/75262645/150532063-379160a7-3f3a-4f8a-b14f-252a71d1dfc5.png)
 
-## Learn More
+## Notas: 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h4 align="center"> 
+	✅ React Status 🚀 Complete ✅
+</h4>
+<h4 align="center"> 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="https://app.netlify.com/sites/brmovies/deploys" target="_blank" rel="noreferrer"> Deploy Netlify Status 
+<img src="https://api.netlify.com/api/v1/badges/5500c548-2799-4255-8d1c-9c47486939a1/deploy-status" alt ="netlify"/> 
+</a> 
+</h4>
 
-### Code Splitting
+<h4 align="center"> 
+	✅ Vercel Status 🚀 Published ✅
+</h4>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Autor
 
-### Analyzing the Bundle Size
+<h4>By me ✅😁</h4>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
