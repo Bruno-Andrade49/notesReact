@@ -44,7 +44,7 @@ biblioteca, além disso o pequeno sistema web tem como objetivo a criação de n
 
 ## Projeto:
 
-<a href="notes-react-lac.vercel.app">
+<a href="https://notes-react-lac.vercel.app/">
 Para acessar o projeto, clique aqui</a>
 <br></br>
 
