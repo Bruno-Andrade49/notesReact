@@ -26,8 +26,8 @@ biblioteca, além disso o pequeno sistema web tem como objetivo a criação de n
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
 </a> 
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="40" width="40"/> 
+<a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+<img src="https://i.pinimg.com/originals/c4/35/6c/c4356cd5454d06585e0a46066b555172.png" alt="java" height="40" width="40"/> 
 </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -46,8 +46,9 @@ biblioteca, além disso o pequeno sistema web tem como objetivo a criação de n
 
 <a href="notes-react-lac.vercel.app">
 Para acessar o projeto, clique aqui</a>
+<br></br>
 
-![Screenshot_9](https://user-images.githubusercontent.com/75262645/150532063-379160a7-3f3a-4f8a-b14f-252a71d1dfc5.png)
+<img src="https://user-images.githubusercontent.com/75262645/154847841-cb2f8120-56ec-4c92-9cf0-60b5a16701d5.png" target="_blank"/>
 
 ## Notas: 
 
@@ -56,10 +57,7 @@ Para acessar o projeto, clique aqui</a>
 </h4>
 <h4 align="center"> 
 
-<a href="https://app.netlify.com/sites/brmovies/deploys" target="_blank" rel="noreferrer"> Deploy Netlify Status 
-<img src="https://api.netlify.com/api/v1/badges/5500c548-2799-4255-8d1c-9c47486939a1/deploy-status" alt ="netlify"/> 
-</a> 
-</h4>
+
 
 <h4 align="center"> 
 	✅ Vercel Status 🚀 Published ✅
